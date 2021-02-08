@@ -3,30 +3,34 @@ dogetick
 
 An INR ticker for $DOGE built using the WazirX API
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
 [![Downloads/week](https://img.shields.io/npm/dw/dogetick.svg)](https://npmjs.org/package/dogetick)
-[![License](https://img.shields.io/npm/l/dogetick.svg)](https://github.com/junaidrahim/dogetick/blob/master/package.json)
 
 <!-- toc -->
-* [Usage](#usage)
-* [Commands](#commands)
-<!-- tocstop -->
+- [dogetick](#dogetick)
+- [Usage](#usage)
+
 # Usage
-<!-- usage -->
+
 ```sh-session
 $ npm install -g dogetick
-$ dogetick COMMAND
-running command...
-$ dogetick (-v|--version|version)
-dogetick/1.0.0 linux-x64 node-v14.15.0
-$ dogetick --help [COMMAND]
-USAGE
-  $ dogetick COMMAND
-...
-```
-<!-- usagestop -->
-# Commands
-<!-- commands -->
+$ dogetick 
+Current Price (DOGE):  5.4103 INR
+Status: active
+┌──────┬──────┬───────┬────────┬──────┬─────────────┐
+│ Last │ High │ Low   │ Buy    │ Sell │ Volume      │
+├──────┼──────┼───────┼────────┼──────┼─────────────┤
+│ 5.42 │ 6.49 │ 3.651 │ 5.4103 │ 5.42 │ 290303986.0 │
+└──────┴──────┴───────┴────────┴──────┴─────────────┘
+Fetched At: 08/02/2021, 13:32:29
 
-<!-- commandsstop -->
+$ dogetick --help [COMMAND]
+An INR ticker for $DOGE based on the WazirX API
+
+USAGE
+  $ dogetick
+
+OPTIONS
+  -h, --help     show CLI help
+  -v, --version  show CLI version
+```
