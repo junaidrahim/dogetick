@@ -1,19 +1,16 @@
 dogetick
 ========
 
-An INR ticker for $DOGE built using the WazirX API
+An INR ticker for **$DOGE** built using the WazirX API
 
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
 [![Downloads/week](https://img.shields.io/npm/dw/dogetick.svg)](https://npmjs.org/package/dogetick)
 
-<!-- toc -->
-- [dogetick](#dogetick)
-- [Usage](#usage)
-
-# Usage
+## Usage
 
 ```sh-session
 $ npm install -g dogetick
+
 $ dogetick 
 Current Price (DOGE):  5.4103 INR
 Status: active
