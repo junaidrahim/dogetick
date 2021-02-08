@@ -1,6 +1,3 @@
-dogetick
-========
-
 ![](images/header.png)
 
 An INR based ticker CLI for **$DOGE** built using the WazirX API
