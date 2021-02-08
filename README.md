@@ -1,11 +1,11 @@
-[](https://rawcdn.githack.com/junaidrahim/dogetick/HEAD/images/header.png)
+![](images/header.png)
 
 An INR based ticker CLI for **$DOGE** built using the WazirX API
 
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
 
 <div align="center">
-	<img src="https://rawcdn.githack.com/junaidrahim/dogetick/HEAD/images/screenshot.png" />
+	<img src="images/screenshot.png" />
 </div>
 
 ## Installation
@@ -39,3 +39,9 @@ OPTIONS
   -h, --help     show CLI help
   -v, --version  show CLI version
 ```
+
+## License
+
+Copyright (c) **Junaid Rahim**. All rights reserved. Licensed under the MIT License
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)

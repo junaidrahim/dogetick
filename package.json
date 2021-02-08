@@ -1,7 +1,7 @@
 {
   "name": "dogetick",
   "description": "An INR ticker for $DOGE built using the WazirX API",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Junaid Rahim <junaidrahim8d@gmail.com>",
   "bin": {
     "dogetick": "./bin/run"
@@ -36,9 +36,6 @@
     "/lib"
   ],
   "homepage": "https://github.com/junaidrahim/dogetick",
-  "keywords": [
-    "oclif"
-  ],
   "license": "MIT",
   "main": "lib/index.js",
   "oclif": {
