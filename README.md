@@ -1,10 +1,15 @@
 dogetick
 ========
 
-An INR ticker for **$DOGE** built using the WazirX API
+An INR based ticker CLI for **$DOGE** built using the WazirX API
 
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
-[![Downloads/week](https://img.shields.io/npm/dw/dogetick.svg)](https://npmjs.org/package/dogetick)
+
+## Installation
+
+```sh-session
+npm install -g dogetick
+```
 
 ## Usage
 
