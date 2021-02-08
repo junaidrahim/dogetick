@@ -1,7 +1,7 @@
 {
   "name": "dogetick",
   "description": "An INR ticker for $DOGE built using the WazirX API",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Junaid Rahim <junaidrahim8d@gmail.com>",
   "bin": {
     "dogetick": "./bin/run"
