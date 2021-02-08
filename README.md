@@ -7,7 +7,10 @@ An INR based ticker CLI for **$DOGE** built using the WazirX API
 
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
 
-![](images/screenshot.png)
+<div align="center">
+	<img src="images/screenshot.png" />
+</div>
+
 ## Installation
 
 ```sh-session
