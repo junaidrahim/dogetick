@@ -1,11 +1,11 @@
-![](images/header.png)
+[](https://rawcdn.githack.com/junaidrahim/dogetick/HEAD/images/header.png)
 
 An INR based ticker CLI for **$DOGE** built using the WazirX API
 
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
 
 <div align="center">
-	<img src="images/screenshot.png" />
+	<img src="https://rawcdn.githack.com/junaidrahim/dogetick/HEAD/images/screenshot.png" />
 </div>
 
 ## Installation
