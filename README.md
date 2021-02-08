@@ -1,6 +1,6 @@
 ![](images/header.png)
 
-An INR based ticker CLI for **$DOGE** built using the WazirX API
+An INR based command line ticker for **$DOGE** built using the WazirX API
 
 [![Version](https://img.shields.io/npm/v/dogetick.svg)](https://npmjs.org/package/dogetick)
 
