@@ -18,7 +18,17 @@ class Dogetick extends Command {
             "https://api.wazirx.com/api/v2/market-status"
         );
 
-        const doge = data["markets"][86];
+        // const doge = data["markets"][87];
+
+		let doge;
+
+		for(let x in data["markets"]) {
+			if(data["markets"][x]["baseMarket"] == "doge") {
+				doge = data["markets"][x];
+				break;
+			}
+		}
+
         const { last, low, high, buy, sell, volume, at, status } = doge;
 
         let table = new Table({
